@@ -15,3 +15,6 @@ Set MAX_SEARCH_PAGES to the amount of search pages it will iterate for
 It will scrape for all restaurant pages and then foreach page it will scrape the restaurant data
 ![alt text](images/0.png)
 ![alt text](images/1.png)
+
+And will save the output on `./output/{file}.json`
+![alt text](images/2.png)
