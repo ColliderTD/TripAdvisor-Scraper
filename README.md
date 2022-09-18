@@ -1,5 +1,5 @@
 # TripAdvisor-Scraper
-A web scraper for the site TripAdvisor
+A web scraper for the site TripAdvisor.
 Currently it only scrapes restaurant pages and informations of a search page
 
 
