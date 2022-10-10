@@ -7,8 +7,8 @@ from scrapy import signals
 from tripadvisor_scrapper.items import PageItem
 from tripadvisor_scrapper.spiders.result import ResultSpider
 from tripadvisor_scrapper.spiders.page import PageSpider
-SEARCH_PAGE = "Restaurants-g60745-Boston_Massachusetts.html"
-MAX_SEARCH_PAGES = 10
+SEARCH_PAGE = "estaurants-g665811-Terrassa_Catalonia.html"
+MAX_SEARCH_PAGES = 1000
 
 def main():
     print("Starting TripAdvisor scraper.")
